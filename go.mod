@@ -1,3 +1,3 @@
-module ynov_2025_bachelor_1
+module Count_occurence
 
 go 1.22.2
